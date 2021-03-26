@@ -1,4 +1,4 @@
-Tic-Tac-Toe!
+# Tic-Tac-Toe!
 An exercise to practice basic HTML, CSS and JS. 
 
 to do:
